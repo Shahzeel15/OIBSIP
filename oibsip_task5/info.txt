@@ -1,0 +1,4 @@
+here i created one chat application as part of my oasias internship
+these is client - server based chat application where more then client are connected to one server and can send and receive multiple messages as real time chat app
+so these two files are inter conncted firstly you should run the server on host then more then one client which are connected via server can receive and send message through these chat app
+to give it more userfriendly i have made it using GUI called tkinter
